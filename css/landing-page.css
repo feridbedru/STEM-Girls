@@ -126,11 +126,17 @@ footer.footer {
 }
 
 .myOrange{
-background-color: #e76525;
+background-color: #f4592f;
 color: white;
 }
 
 .showcases{
-  background-color: #e76525;
+  background-color: #f4592f;
   padding: 25px;
 }
+.primaryOrgange{
+  color: #f4592f;
+}
+.nav-link {
+  color: #f4592f !important;
+  }
